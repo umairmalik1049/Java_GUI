@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="https://your-username.github.io/" href="GUI_Number_Conversion_System.jnlp">
+    <information>
+        <title>GUI Number Conversion System</title>
+        <vendor>Your Vendor</vendor>
+    </information>
+    <resources>
+        <j2se version="1.8+" />
+        <jar href="GUI_Number_Conversion_System.jar" />
+    </resources>
+    <application-desc main-class="your.package.YourMainClass" />
+</jnlp>
