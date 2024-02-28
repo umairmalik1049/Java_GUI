@@ -8,5 +8,5 @@
         <j2se version="1.8+" />
         <jar href="GUI_Number_Conversion_System.jar" />
     </resources>
-    <application-desc main-class="your.package.YourMainClass" />
+    <application-desc main-class="SimpleSwingApp" />
 </jnlp>
