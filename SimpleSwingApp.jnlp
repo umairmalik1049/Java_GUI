@@ -6,7 +6,7 @@
     </information>
     <resources>
         <j2se version="1.8+" />
-        <jar href="GUI_Number_Conversion_System.jar" />
+        <jar href="https://github.com/umairmalik1049/Java_GUI/blob/main/SimpleSwingApp.jar" />
     </resources>
     <application-desc main-class="SimpleSwingApp" />
 </jnlp>
